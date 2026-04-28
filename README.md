@@ -5,7 +5,9 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://getbootstrap.com/)
 [![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-lightgrey?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)
 
-**Vertue Site** یک پلتفرم تخصصی برای خرید و فروش طلای مجازی (In-Game Currency) در محیط‌های متاورسی و بازی‌های آنلاین است. این پروژه با هدف ایجاد محیطی امن، سریع و کاربرپسند برای معامله‌گران بازی طراحی شده است.
+<p dir="rtl" style="text-align: right; line-height: 1.6;">
+<strong>Vertue Site</strong> یک پلتفرم تخصصی برای خرید و فروش طلای مجازی (In-Game Currency) در محیط‌های متاورسی و بازی‌های آنلاین است. این پروژه با هدف ایجاد محیطی امن، سریع و کاربرپسند برای معامله‌گران بازی طراحی شده است.
+</p>
 
 > ⚠️ **توجه:** کدهای منبع به دلیل محرمانه بودن پروژه اصلی، در اینجا موجود نیستند. این مخزن شامل مستندات فنی، معماری و دموهای وب‌سایت است.
 
