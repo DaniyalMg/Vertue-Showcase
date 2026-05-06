@@ -39,7 +39,7 @@
 | **Database** | PostgreSQL, Django ORM | ذخیره‌سازی امن داده‌های مالی و کاربری |
 | **Frontend** | HTML5, CSS3, JavaScript, Tailwind CSS | طراحی رابط کاربری مدرن و واکنش‌گرا |
 | **Security** | CSRF Protection, XSS Prevention | محافظت از تراکنش‌های مالی |
-| **Deployment** | Docker, Nginx, Gunicorn | استقرار در سرورهای لینوکسی |
+| **Deployment** | Nginx, Gunicorn | استقرار در سرورهای لینوکسی |
 
 
 ---
